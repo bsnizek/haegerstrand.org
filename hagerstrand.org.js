@@ -1,0 +1,6 @@
+/*
+ * haegerstrand.org
+ */
+
+alert("YEAH");
+
